@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm MSohaibJamal</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
-<img aling"right" alt="gif" width"400" src="https://github.com/user-attachments/assets/c124d1b4-066d-4e33-a06b-1850a7ded942
-"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msohaibjamal&label=Profile%20views&color=0e75b6&style=flat" alt="msohaibjamal" /> </p>
 
