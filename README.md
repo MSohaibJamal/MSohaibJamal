@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_sohaibjamal" target="blank"><img src="https://img.shields.io/twitter/follow/m_sohaibjamal?logo=twitter&style=for-the-badge" alt="m_sohaibjamal" /></a> </p>
 
-- 🔭 I’m currently working on **ecommerc**
+- 🔭 I’m currently working on **Personal Portfolio**
 
 - 🌱 I’m currently learning **JavaScript,ReactJs,Nextjs,ExpressJs**
 
