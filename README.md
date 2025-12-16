@@ -2,7 +2,7 @@
   <img 
     src="https://raw.githubusercontent.com/MSohaibJamal/MSohaibJamal/main/banner.jpg"
     alt="logo"
-    style="border-radius:30px; width:50%;"
+    style="border-radius:30px; width:60%;"
   />
 </p>
 <h1 align="center">Hi 👋, I'm MSohaibJamal</h1>
