@@ -1,0 +1,23 @@
+<svg
+  width="1200"
+  height="675"
+  viewBox="0 0 1200 675"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <defs>
+    <clipPath id="rounded">
+      <rect x="0" y="0" width="1200" height="675" rx="30" ry="30" />
+    </clipPath>
+  </defs>
+
+  <image
+    x="0"
+    y="0"
+    width="1200"
+    height="675"
+    xlink:href="banner.png"
+    clip-path="url(#rounded)"
+    preserveAspectRatio="xMidYMid slice"
+  />
+</svg>
