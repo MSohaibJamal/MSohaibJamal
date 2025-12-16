@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/MSohaibJamal/MSohaibJamal/main/banner.png"
+    src="https://raw.githubusercontent.com/MSohaibJamal/MSohaibJamal/main/banner.jpg"
     alt="logo"
     style="border-radius:30px; display:block;"
   />
