@@ -1,7 +1,7 @@
 <img 
   src="https://github.com/MSohaibJamal/MSohaibJamal/blob/main/banner.png" 
   alt="logo"
-  style="border-radius:30px; width:100%;"
+  style="border-radius:30px; width:50%;"
 />
 <h1 align="center">Hi 👋, I'm MSohaibJamal</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
